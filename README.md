@@ -10,28 +10,28 @@ Telegram：https://t.me/kms_kosmos
 
 Kosmos system contain 8 components. The rules of each component is defined and realized by different sub projects:
 
-1 kosmos_developer:  
+## 1 kosmos_developer:  
   For kosmos developer Community: Any developer of Github can upload the code，design or update the Chrome/APP plugin or special web browser to realize the function of kosmos and collect data. But the output and the basic logic of data replacement cannot be changed. 
 
-2 kosmos_sdk: 
+## 2 kosmos_sdk: 
 Web or APP SDK. web site or APP owner could use these SDK to collect user data. 
 
-3 kosmos_chrome_plugin: 
+## 3 kosmos_chrome_plugin: 
 Some users may want to share their web visiting logs by themselves. The chrome plugin will meet this requirement. 
 
-4 kosmos_stat: 
+## 4 kosmos_stat: 
 Mainly for web site/app owner. This Statistics Platform should act the function like Google analytics web. 
 
-5 kosmos_mining: 
+## 5 kosmos_mining: 
 Data Contributor is the users of web site/APP. There data is upload to decentralized storage. To encourage data contributor share their data, kosmos set the mining contrac.
 
-6 Kosmos_bid: 
+## 6 Kosmos_bid: 
 this project define the rules that how to ‘buy’ the data of kosmos. The user could only buy the data usage rights. The data is ALWAYS belong to data contributors.
 
-7 kosmos_data_platform: 
+## 7 kosmos_data_platform: 
 A platform stores the user data provided by data contributors.
 
-8 Kosmos_proxy :
+## 8 Kosmos_proxy :
 Normally, the SDK like web JS can’t directly upload data to decentralized storage platform. So the proxy is set to connect the SDK and decentralized storage platform. 
 
 
