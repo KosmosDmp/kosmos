@@ -9,6 +9,7 @@ Ttwitter：https://twitter.com/Kosmos90003716
 Telegram：https://t.me/kms_kosmos
 
 Kosmos system contain 8 components. The rules of each component is defined and realized by different sub projects:
+
 1 kosmos_developer: 
 For kosmos developer Community: Any developer of Github can upload the code，design or update the Chrome/APP plugin or special web browser to realize the function of kosmos and collect data. But the output and the basic logic of data replacement cannot be changed. 
 
